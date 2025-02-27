@@ -29,5 +29,6 @@ in case of you got permission denied run `chmod +x ./healing_script_sync_json`
 
 the responses reads in case the host not available >> KeyCloak not reachable in this case 
 
+![image](https://github.com/user-attachments/assets/0221fed1-958b-4526-aedd-e96170c28cb4)
 
 
